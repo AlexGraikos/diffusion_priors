@@ -1,5 +1,5 @@
 # Diffusion Models as Plug-and-Play Priors
-Code for [Diffusion Models as Plug-and-Play Priors](https://arxiv.org/abs/2206.09012).
+Code for [Diffusion Models as Plug-and-Play Priors](https://arxiv.org/abs/2206.09012) (NeurIPS 2022, to appear).
 
 ## MNIST
 The code in the `mnist` directory is sufficient to reproduce the MNIST experiments of Section 3.1. The `mnist/train\_diffusion.ipynb` Jupyter notebook trains the MNIST DDPM model. The `mnist/inference.ipynb` notebook can be used to run our inference algorithm with both hand-crafted and learned constraints.
