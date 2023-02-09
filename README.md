@@ -26,4 +26,7 @@ The code in the `tsp` directory is sufficient to reproduce the experiments whose
 
 ![](videos/tsp.gif)
 
+# EnviroAtlas Land-Cover Segmentations
+The data can be downloaded from [this repository](https://zenodo.org/record/6268150#.YhkcxpPMIws). The code in the `segmentation` directory contains example Jupyter notebooks to train the segmentation diffusion model, compute the per-tile clusterings and perform inference with given clusters and label prior information. A trained UNet on segmentation maps is provided [here](https://diffusion-priors.s3.amazonaws.com/unet_100000.pth).
+
 In all experiments, the U-Net denoiser network is taken from https://github.com/openai/guided-diffusion.
