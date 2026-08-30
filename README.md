@@ -4,7 +4,7 @@ Code for [Diffusion Models as Plug-and-Play Priors](https://arxiv.org/abs/2206.0
 ```bibtex
 @inproceedings{graikos2022diffusion,
    title={Diffusion Models as Plug-and-Play Priors},
-   author={Alexandros Graikos and Nikolay Malkin and Nebojsa Jojic and Dimitris Samaras},
+   author={Alexandros Graikos and Esmeralda S. Whitammer and Nebojsa Jojic and Dimitris Samaras},
    booktitle={Thirty-Sixth Conference on Neural Information Processing Systems},
    year={2022},
    url={https://arxiv.org/pdf/2206.09012.pdf}
